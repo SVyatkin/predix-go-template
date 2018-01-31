@@ -1,0 +1,8 @@
+applications:
+  - name: pr-go-template
+    memory: 64M
+    buildpack: https://github.com/cloudfoundry/go-buildpack
+
+services:
+    - preix_columnar_store_5nodes_enterprise
+

@@ -1,0 +1,1 @@
+web: pr-go-template
