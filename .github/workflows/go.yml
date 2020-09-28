@@ -35,3 +35,7 @@ jobs:
 
     - name: Test
       run: go test -v .
+      
+    - name: Analyze with SonarCloud
+      uses: sonarsource/sonarcloud-github-action@master
+      
