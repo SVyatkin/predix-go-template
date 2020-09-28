@@ -1,4 +1,8 @@
 [![Go](https://github.com/SVyatkin/predix-go-template/workflows/Go/badge.svg)](https://github.com/SVyatkin/predix-go-template/actions?query=workflow%3AGo)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=SVyatkin_predix-go-template&metric=alert_status)](https://sonarcloud.io/dashboard?id=SVyatkin_predix-go-template)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=SVyatkin_predix-go-template&metric=bugs)](https://sonarcloud.io/dashboard?id=SVyatkin_predix-go-template)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=SVyatkin_predix-go-template&metric=coverage)](https://sonarcloud.io/dashboard?id=SVyatkin_predix-go-template)
+
 # pr-go-template
 Predix Golang Microservice Template
 
