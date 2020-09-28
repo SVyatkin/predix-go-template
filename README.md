@@ -1,4 +1,4 @@
-[![Go](https://github.com/SVyatkin/predix-go-template/workflows/Go/badge.svg)(https://github.com/SVyatkin/predix-go-template/actions?query=workflow%3AGo)]
+[![Go](https://github.com/SVyatkin/predix-go-template/workflows/Go/badge.svg)](https://github.com/SVyatkin/predix-go-template/actions?query=workflow%3AGo)
 # pr-go-template
 Predix Golang Microservice Template
 
