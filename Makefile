@@ -7,7 +7,7 @@ version := "0.1.0"
 
 build:
 	mkdir -p bin
-	go build -o bin/service-sonar main.go
+	go build -o bin/service-sonar predix-go.go
 
 test: build
 	go test -short -coverprofile=bin/cov.out `go list ./... | grep -v vendor/`
