@@ -1,8 +1,8 @@
 FROM sonarsource/sonar-scanner-cli:4.3
 
 LABEL version="0.0.1" \
-      repository="https://github.com/sonarsource/sonarcloud-github-action" \
-      homepage="https://github.com/sonarsource/sonarcloud-github-action" \
+      repository="https://github.com/svyatkin/predix-go-template" \
+      homepage="https://github.com/svyatkin/predix-go-template" \
       maintainer="SonarSource" \
       com.github.actions.name="SonarCloud Scan" \
       com.github.actions.description="Scan your code with SonarCloud to detect bugs, vulnerabilities and code smells in more than 25 programming languages." \
