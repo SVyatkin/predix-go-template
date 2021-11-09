@@ -5,7 +5,7 @@
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=SVyatkin_predix-go-template&metric=ncloc)](https://sonarcloud.io/dashboard?id=SVyatkin_predix-go-template)
 
 # predix-go-template
-Predix Golang Microservice Template
+Predix Golang Microservice Template 
 
 Please use  <a href=https://golang.org/doc/install?download=go1.5.windows-amd64.msi2> a link </a> to install Go and <a href=https://github.com/tools/godep/blob/master/Readme.md> another link </a> to install Godep
 
