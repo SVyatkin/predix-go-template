@@ -7,7 +7,7 @@
 # predix-go-template
 Predix Golang Microservice Template 
 
-Please use  <a href=https://golang.org/doc/install?download=go1.5.windows-amd64.msi2> a link </a> to install Go and <a href=https://github.com/tools/godep/blob/master/Readme.md> another link </a> to install Godep
+Please use  href=https://golang.org/doc/install?download=go1.5.windows-amd64.msi2 a link to install Go and href=https://github.com/tools/godep/blob/master/Readme.md> another link to install Godep
 
 - $ git clone predix-go-template repository
 - $ cd predix-go-template
